@@ -2,7 +2,7 @@
 
 RetainIQ is a machine learning project that predicts the probability of customer churn for a telecom company and provides data-driven retention recommendations.
 
-The project performs data cleaning, exploratory data analysis, feature preprocessing, model comparison, cross-validation, SHAP-based explainability, and customer-level churn risk analysis through an interactive Streamlit dashboard.
+The project covers data cleaning, exploratory data analysis, feature preprocessing, machine learning model comparison, cross-validation, SHAP-based explainability, and customer-level churn risk analysis through an interactive Streamlit dashboard.
 
 ---
 
@@ -59,6 +59,8 @@ The dataset contains customer information related to:
 - Monthly charges
 - Total charges
 - Churn status
+
+### Dataset After Cleaning
 
 After data cleaning, the dataset contains:
 
