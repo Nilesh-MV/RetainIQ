@@ -7,6 +7,6 @@ xgboost
 shap
 matplotlib
 seaborn
-kagglehub
 plotly
 pyarrow==23.0.1
+kagglehub
