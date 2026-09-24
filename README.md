@@ -1,4 +1,7 @@
 # RetainIQ — Telecom Customer Churn Prediction & Retention Analytics
+## 🚀 Live Demo
+
+🔗 **[Launch RetainIQ](https://retainiq-churn.streamlit.app)**
 
 RetainIQ is a machine learning project that predicts the probability of customer churn for a telecom company and provides data-driven retention recommendations.
 
