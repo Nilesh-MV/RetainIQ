@@ -104,7 +104,7 @@ The dashboard provides a what-if analysis showing how predicted churn probabilit
 
 SHAP-based model insights are presented to show which features have the greatest average influence on the model output.
 
-![Model Insights](screenshots/dashboard_model_insights.png)
+![Model Performance](screenshots/dashboard_model_performance.png)
 
 ---
 
